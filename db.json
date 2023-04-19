@@ -1,0 +1,14 @@
+{
+  "tarefas": [
+    {
+      "id": 2,
+      "descricao": "varrer quarto e sala",
+      "status": "Concluída"
+    },
+    {
+      "id": 4,
+      "descricao": "ir ao supermercado",
+      "status": "Pendente"
+    }
+  ]
+}
